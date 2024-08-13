@@ -1,0 +1,14 @@
+D:\C#\laba 1\task 10\task 10\bin\Debug\net8.0\task 10.exe
+D:\C#\laba 1\task 10\task 10\bin\Debug\net8.0\task 10.deps.json
+D:\C#\laba 1\task 10\task 10\bin\Debug\net8.0\task 10.runtimeconfig.json
+D:\C#\laba 1\task 10\task 10\bin\Debug\net8.0\task 10.dll
+D:\C#\laba 1\task 10\task 10\bin\Debug\net8.0\task 10.pdb
+D:\C#\laba 1\task 10\task 10\obj\Debug\net8.0\task 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\laba 1\task 10\task 10\obj\Debug\net8.0\task 10.AssemblyInfoInputs.cache
+D:\C#\laba 1\task 10\task 10\obj\Debug\net8.0\task 10.AssemblyInfo.cs
+D:\C#\laba 1\task 10\task 10\obj\Debug\net8.0\task 10.csproj.CoreCompileInputs.cache
+D:\C#\laba 1\task 10\task 10\obj\Debug\net8.0\task 10.dll
+D:\C#\laba 1\task 10\task 10\obj\Debug\net8.0\refint\task 10.dll
+D:\C#\laba 1\task 10\task 10\obj\Debug\net8.0\task 10.pdb
+D:\C#\laba 1\task 10\task 10\obj\Debug\net8.0\task 10.genruntimeconfig.cache
+D:\C#\laba 1\task 10\task 10\obj\Debug\net8.0\ref\task 10.dll

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\laba 1\\task 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60557E4-E49D-44EC-9901-FF4C1E995A44}|task 5\\task 5.csproj|d:\\c#\\laba 1\\task 5\\task 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60557E4-E49D-44EC-9901-FF4C1E995A44}|task 5\\task 5.csproj|solutionrelative:task 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\laba 1\\task 5\\task 5\\Program.cs",
+              "RelativeDocumentMoniker": "task 5\\Program.cs",
+              "ToolTip": "D:\\C#\\laba 1\\task 5\\task 5\\Program.cs",
+              "RelativeToolTip": "task 5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:36:56.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

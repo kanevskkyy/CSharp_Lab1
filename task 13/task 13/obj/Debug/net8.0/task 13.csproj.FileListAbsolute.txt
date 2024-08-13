@@ -1,0 +1,14 @@
+D:\C#\laba 1\task 13\task 13\bin\Debug\net8.0\task 13.exe
+D:\C#\laba 1\task 13\task 13\bin\Debug\net8.0\task 13.deps.json
+D:\C#\laba 1\task 13\task 13\bin\Debug\net8.0\task 13.runtimeconfig.json
+D:\C#\laba 1\task 13\task 13\bin\Debug\net8.0\task 13.dll
+D:\C#\laba 1\task 13\task 13\bin\Debug\net8.0\task 13.pdb
+D:\C#\laba 1\task 13\task 13\obj\Debug\net8.0\task 13.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\laba 1\task 13\task 13\obj\Debug\net8.0\task 13.AssemblyInfoInputs.cache
+D:\C#\laba 1\task 13\task 13\obj\Debug\net8.0\task 13.AssemblyInfo.cs
+D:\C#\laba 1\task 13\task 13\obj\Debug\net8.0\task 13.csproj.CoreCompileInputs.cache
+D:\C#\laba 1\task 13\task 13\obj\Debug\net8.0\task 13.dll
+D:\C#\laba 1\task 13\task 13\obj\Debug\net8.0\refint\task 13.dll
+D:\C#\laba 1\task 13\task 13\obj\Debug\net8.0\task 13.pdb
+D:\C#\laba 1\task 13\task 13\obj\Debug\net8.0\task 13.genruntimeconfig.cache
+D:\C#\laba 1\task 13\task 13\obj\Debug\net8.0\ref\task 13.dll

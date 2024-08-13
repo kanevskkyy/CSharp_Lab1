@@ -1,0 +1,14 @@
+D:\C#\laba 1\task 17\task 17\bin\Debug\net8.0\task 17.exe
+D:\C#\laba 1\task 17\task 17\bin\Debug\net8.0\task 17.deps.json
+D:\C#\laba 1\task 17\task 17\bin\Debug\net8.0\task 17.runtimeconfig.json
+D:\C#\laba 1\task 17\task 17\bin\Debug\net8.0\task 17.dll
+D:\C#\laba 1\task 17\task 17\bin\Debug\net8.0\task 17.pdb
+D:\C#\laba 1\task 17\task 17\obj\Debug\net8.0\task 17.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\laba 1\task 17\task 17\obj\Debug\net8.0\task 17.AssemblyInfoInputs.cache
+D:\C#\laba 1\task 17\task 17\obj\Debug\net8.0\task 17.AssemblyInfo.cs
+D:\C#\laba 1\task 17\task 17\obj\Debug\net8.0\task 17.csproj.CoreCompileInputs.cache
+D:\C#\laba 1\task 17\task 17\obj\Debug\net8.0\task 17.dll
+D:\C#\laba 1\task 17\task 17\obj\Debug\net8.0\refint\task 17.dll
+D:\C#\laba 1\task 17\task 17\obj\Debug\net8.0\task 17.pdb
+D:\C#\laba 1\task 17\task 17\obj\Debug\net8.0\task 17.genruntimeconfig.cache
+D:\C#\laba 1\task 17\task 17\obj\Debug\net8.0\ref\task 17.dll
